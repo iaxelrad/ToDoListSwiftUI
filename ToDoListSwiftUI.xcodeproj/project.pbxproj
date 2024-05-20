@@ -30,6 +30,7 @@
 		DC5244742BF9152B0035D9AF /* RegisterViewViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC5244732BF9152B0035D9AF /* RegisterViewViewModel.swift */; };
 		DC5244762BF9153C0035D9AF /* ToDoListItemViewViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC5244752BF9153C0035D9AF /* ToDoListItemViewViewModel.swift */; };
 		DC5244782BF921E50035D9AF /* HeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC5244772BF921E50035D9AF /* HeaderView.swift */; };
+		DC52447A2BFBE28F0035D9AF /* TLButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC5244792BFBE28F0035D9AF /* TLButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -55,6 +56,7 @@
 		DC5244732BF9152B0035D9AF /* RegisterViewViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegisterViewViewModel.swift; sourceTree = "<group>"; };
 		DC5244752BF9153C0035D9AF /* ToDoListItemViewViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoListItemViewViewModel.swift; sourceTree = "<group>"; };
 		DC5244772BF921E50035D9AF /* HeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderView.swift; sourceTree = "<group>"; };
+		DC5244792BFBE28F0035D9AF /* TLButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TLButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -117,6 +119,7 @@
 				DC5244612BF914350035D9AF /* RegisterView.swift */,
 				DC5244632BF9145F0035D9AF /* ToDoListItemView.swift */,
 				DC5244772BF921E50035D9AF /* HeaderView.swift */,
+				DC5244792BFBE28F0035D9AF /* TLButton.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -239,6 +242,7 @@
 				DC52446A2BF914CF0035D9AF /* MainViewViewModel.swift in Sources */,
 				DC52445C2BF914120035D9AF /* ToDoListView.swift in Sources */,
 				DC5244622BF914350035D9AF /* RegisterView.swift in Sources */,
+				DC52447A2BFBE28F0035D9AF /* TLButton.swift in Sources */,
 				DC52446C2BF914D90035D9AF /* ProfileViewViewModel.swift in Sources */,
 				DC52445A2BF914020035D9AF /* ProfileView.swift in Sources */,
 				DC5244662BF9149B0035D9AF /* User.swift in Sources */,
